@@ -1,0 +1,66 @@
+{
+  "annotations": [
+    {
+      "page": 25,
+      "snippet": "A tough work environment often marks the beginning of the journey to financial independence.",
+      "comment": "开场动机：作者先把投资和财务独立、选择权联系起来，不是先从资产定义讲起。"
+    },
+    {
+      "page": 25,
+      "snippet": "But what if the solution isn’t another job, but greater independence from any job through gradually building passive income?",
+      "comment": "本章主问题之一：投资在这里被定义成逐步摆脱对单一工作的依赖。"
+    },
+    {
+      "page": 26,
+      "snippet": "Risk and return are the pillars of any investment strategy.",
+      "comment": "阅读提示：后面所有资产和策略都要放回“风险-收益”这对支柱里理解。"
+    },
+    {
+      "page": 26,
+      "snippet": "Without a fundamental understanding of what you’re investing in",
+      "alt_snippets": [
+        "Without a fundamental understanding of what you're investing in",
+        "risk your capital based on a casual tip from a friend."
+      ],
+      "comment": "方法论边界：作者明确反对基于传闻下注，这也是全书转向 data-driven research 的入口。"
+    },
+    {
+      "page": 26,
+      "snippet": "This book aims to guide you toward becoming a data-driven investor.",
+      "comment": "主线提示：这本书的目标不是荐股，而是训练你成为 data-driven investor。"
+    },
+    {
+      "page": 27,
+      "snippet": "Investors should begin by understanding their risk tolerance",
+      "comment": "先记住这句，不必急着背资产定义。作者认为先定义风险承受能力、目标和时间投入。"
+    },
+    {
+      "page": 28,
+      "snippet": "A bond is an IOU.",
+      "comment": "术语提示：这是债券最值得先记住的直觉定义。"
+    },
+    {
+      "page": 28,
+      "snippet": "describing such assets as extremely low risk would be more accurate",
+      "comment": "边界提醒：所谓 risk-free 往往只是金融惯例，不等于真的没有风险。"
+    },
+    {
+      "page": 28,
+      "snippet": "Savvy investors diversify their risk by not putting all their eggs in one basket.",
+      "comment": "ETF 段落的核心入口：先抓“分散化”作用，再看产品细节。"
+    },
+    {
+      "page": 30,
+      "snippet": "The primary value of cryptocurrency lies",
+      "alt_snippets": [
+        "trusted third party"
+      ],
+      "comment": "读 crypto 时先抓用途：作者先解释它解决什么问题，而不是先谈价格故事。"
+    },
+    {
+      "page": 30,
+      "snippet": "Options are powerful tools, but they’re complex instruments with significant risk.",
+      "comment": "风险提示：衍生品不是入门玩具，先记住它们强大但危险。"
+    }
+  ]
+}
