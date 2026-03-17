@@ -26,6 +26,7 @@
   3. 哪些内容适合我现在就实践？
 - 对不熟的金融术语，优先掌握“用途”和“局限”，再追求定义的精确。
 - 默认采用 `轻标注 + 外部笔记`：PDF 里只标关键原文，理解、问答和结构化结论沉淀到项目文档；如果主读文件是 PDF，预标注默认直接覆盖回主读文件，覆盖后默认只保留这一份 PDF。
+- 如果问题与 PDF 中的图片或图表相关，默认会把原图裁出、保存到 `notes/assets/`，并在对应 Markdown 笔记中嵌入，同时标明原文位置。
 
 ## 工作区结构
 - `LEARNING_OKR.md`：本书学习 OKR
@@ -34,6 +35,8 @@
 - `领域学习流程.md`：本书所在领域的长期学习路径
 - `问答笔记.md`：持续沉淀问题与回答
 - `全书总笔记.md`：全书级别的总结框架
+- `notes/ACCOUNTING_PRIMER.md`：程序员版会计补丁
+- `notes/GLOSSARY.md`：中英文术语表
 - `notes/BOOK_MAP.md`：章节路线图
 - `sessions/SESSION_TEMPLATE.md`：单次学习模板
 - `resources/extract_pdf_outline.py`：PDF 目录/样本文本提取脚本

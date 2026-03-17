@@ -1,0 +1,57 @@
+{
+  "annotations": [
+    {
+      "page": 43,
+      "snippet": "use of ubiquitous language",
+      "comment": "开场提示：Chapter 2 的任务不是背术语，而是先进入投资研究的领域语言。"
+    },
+    {
+      "page": 44,
+      "snippet": "Think of financial statements as a company’s source code.",
+      "alt_snippets": [
+        "Think of financial statements as a company's source code."
+      ],
+      "comment": "这一章最重要的程序员类比。后面所有报表阅读，都可以先套回这个理解。"
+    },
+    {
+      "page": 44,
+      "snippet": "investing without understanding at least the basics of accounting",
+      "comment": "边界提醒：作者明确认为基础会计知识不是可选项。"
+    },
+    {
+      "page": 45,
+      "snippet": "Income statement—How much revenue a business makes and how much it spends",
+      "comment": "先记住三张表最朴素的职责，不急着深究细节。"
+    },
+    {
+      "page": 45,
+      "snippet": "Balance sheet—What assets a business owns and what it owes",
+      "comment": "阅读提示：资产负债表看的是某个时点的资源结构。"
+    },
+    {
+      "page": 45,
+      "snippet": "Cashflow statement—How much cash the business generates",
+      "comment": "现金流角度很关键，它常常比账面利润更接近企业是否真有钱。"
+    },
+    {
+      "page": 46,
+      "snippet": "Investors typically expect a successful company to increase both revenue and net income over time.",
+      "comment": "时间维度提示：不要只看单个季度，要看随时间变化的趋势。"
+    },
+    {
+      "page": 48,
+      "snippet": "all we can do is create hypotheses about what’s happening",
+      "comment": "方法论提醒：财务分析是在形成更有依据的假设，不是在读完报表后获得绝对确定性。"
+    },
+    {
+      "page": 60,
+      "snippet": "look beyond surface-level metrics",
+      "comment": "比率阅读提醒：指标不能脱离上下文，数字看起来差，不一定真的差。"
+    },
+    {
+      "page": 74,
+      "snippet": "The three accounting documents",
+      "comment": "总结页提示：三张表是这一章最小但最核心的骨架。"
+    }
+  ]
+}
