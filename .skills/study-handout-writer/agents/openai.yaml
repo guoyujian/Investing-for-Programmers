@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Handout Writer"
+  short_description: "Write first-pass handouts with PDF source markers"
+  default_prompt: "Use $study-handout-writer to draft a first-pass chapter handout with PDF positions."

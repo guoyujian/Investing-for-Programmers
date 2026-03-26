@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Chapter Launch"
+  short_description: "Initialize chapter notes, handouts, and progress"
+  default_prompt: "Use $book-chapter-launch to initialize the next chapter in this study workspace."

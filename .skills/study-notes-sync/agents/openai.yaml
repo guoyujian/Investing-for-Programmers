@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Notes Sync"
+  short_description: "Sync Q&A, progress, glossary, and chapter notes"
+  default_prompt: "Use $study-notes-sync to sync study outcomes into notes, glossary, and progress files."
